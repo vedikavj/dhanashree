@@ -7,3 +7,4 @@ clrscr();
 printf("hello world");
 getch();
 }
+welcomeee
